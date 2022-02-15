@@ -1,0 +1,7 @@
+C:\Users\Кристина\Desktop\4 семестр\ООП\test.ConsoleApp1\test.ConsoleApp1\bin\Debug\View.exe.config
+C:\Users\Кристина\Desktop\4 семестр\ООП\test.ConsoleApp1\test.ConsoleApp1\bin\Debug\View.exe
+C:\Users\Кристина\Desktop\4 семестр\ООП\test.ConsoleApp1\test.ConsoleApp1\bin\Debug\View.pdb
+C:\Users\Кристина\Desktop\4 семестр\ООП\test.ConsoleApp1\test.ConsoleApp1\obj\Debug\View.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\Desktop\4 семестр\ООП\test.ConsoleApp1\test.ConsoleApp1\obj\Debug\View.exe
+C:\Users\Кристина\Desktop\4 семестр\ООП\test.ConsoleApp1\test.ConsoleApp1\obj\Debug\View.pdb
+C:\Users\Кристина\Desktop\4 семестр\ООП\test.ConsoleApp1\test.ConsoleApp1\obj\Debug\View.csproj.AssemblyReference.cache

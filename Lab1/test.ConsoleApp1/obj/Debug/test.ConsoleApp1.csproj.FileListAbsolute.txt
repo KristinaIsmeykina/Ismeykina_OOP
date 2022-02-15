@@ -1,0 +1,7 @@
+C:\Users\Кристина\Desktop\4 семестр\ООП\test.ConsoleApp1\test.ConsoleApp1\bin\Debug\test.ConsoleApp1.exe.config
+C:\Users\Кристина\Desktop\4 семестр\ООП\test.ConsoleApp1\test.ConsoleApp1\bin\Debug\test.ConsoleApp1.exe
+C:\Users\Кристина\Desktop\4 семестр\ООП\test.ConsoleApp1\test.ConsoleApp1\bin\Debug\test.ConsoleApp1.pdb
+C:\Users\Кристина\Desktop\4 семестр\ООП\test.ConsoleApp1\test.ConsoleApp1\obj\Debug\test.ConsoleApp1.csproj.AssemblyReference.cache
+C:\Users\Кристина\Desktop\4 семестр\ООП\test.ConsoleApp1\test.ConsoleApp1\obj\Debug\test.ConsoleApp1.csproj.CoreCompileInputs.cache
+C:\Users\Кристина\Desktop\4 семестр\ООП\test.ConsoleApp1\test.ConsoleApp1\obj\Debug\test.ConsoleApp1.exe
+C:\Users\Кристина\Desktop\4 семестр\ООП\test.ConsoleApp1\test.ConsoleApp1\obj\Debug\test.ConsoleApp1.pdb
